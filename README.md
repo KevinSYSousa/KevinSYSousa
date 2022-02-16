@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kevin Sousa</h1>
 <h3 align="center"> Full-Stack Developer</h3>
 
-<p align="center"> <img src="https://img.shields.io/github/followers/kevinsysousa.svg?style=social&label=Follow&maxAge=2592000" alt="kevinsysousa" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/kevinsysousa" alt="kevinsysousa" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevinsysousa&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsysousa" /> <br /></p>
 
 ### 🤝 Connect with me:
